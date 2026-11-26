@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "547667495216",
+    "project_id": "clipkeo",
+    "storage_bucket": "clipkeo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547667495216:android:9825cc0a166c04f0d8e0f5",
+        "android_client_info": {
+          "package_name": "com.example.clipkeo_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547667495216-ajvcm6aahepugvrhvpqsh0io7h4i7fet.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.clipkeo_mobile",
+            "certificate_hash": "36b7f508a503a66dd6885ce2ed682c7d3e71da70"
+          }
+        },
+        {
+          "client_id": "547667495216-6bo81v6hjedoesboju2eoc9nik4o5tmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcVC_DA_sOQD06hkATq14A1auK96RQl5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547667495216-6bo81v6hjedoesboju2eoc9nik4o5tmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
